@@ -2069,7 +2069,7 @@ button{
     border-radius: 20px;
     outline: none;
     cursor: pointer;
-    font-size: 10px;
+    font-size: 13px;
 }
 .essop{
     width: 100%}
@@ -2107,4 +2107,10 @@ button{
         margin: auto;
     }
     
-
+.chooseyourtopic{
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+.button-quiz{
+    margin-top: 50px;
+}
